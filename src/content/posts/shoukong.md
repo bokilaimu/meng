@@ -24,11 +24,10 @@ category: 技术笔记
 
 如下图所示，左边是输入信号的有效范围，右边是输出信号的有效范围。为了保证信号在传输后依然清晰有效，输出端的标准会更加严格。这就要求我们有一个能够“修复”和“增强”信号的设备，即放大器。
 
-![信号阈值示意图](<blockquote class="imgur-embed-pub" lang="en" data-id="s8fcpin"><a href="https://imgur.com/s8fcpin">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![信号阈值示意图](https://i.imgur.com/AjOl4ZV.png)
 *图1：输入与输出的电压阈值。输出端的要求更严格，需要放大器来“拉升”信号。*
 
 ---
-https://i.imgur.com/AjOl4ZV.png
 ## 受控源 (Controlled Source)
 
 要构造**放大器**，就需要**受控源**。
