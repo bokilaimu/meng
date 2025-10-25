@@ -1,5 +1,5 @@
 ---
-title: MOSFET 的工作特性与饱和现象
+title: 放大器大信号分析--脱下MOSFET的伪装
 published: 2025-10-24
 author: Lain
 description: 解释 MOSFET（场效应晶体管）在不同电压下的工作区域，特别是从电阻区到饱和区的转变及其背后的物理原理。
