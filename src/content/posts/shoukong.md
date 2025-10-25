@@ -24,7 +24,7 @@ category: 技术笔记
 
 如下图所示，左边是输入信号的有效范围，右边是输出信号的有效范围。为了保证信号在传输后依然清晰有效，输出端的标准会更加严格。这就要求我们有一个能够“修复”和“增强”信号的设备，即放大器。
 
-![信号阈值示意图](https://secure2.wostatic.cn/static/c1KdD1R8Ko2wHfedHT8W5B/image.png?auth_key=1761381553-7BWQ2ZKjmGTu4s8KTRAQdW-0-2919256d0ac83c3196033a00b4843ae4)
+![信号阈值示意图](https://imgur.com/a/Y7wBrNC)
 *图1：输入与输出的电压阈值。输出端的要求更严格，需要放大器来“拉升”信号。*
 
 ---
@@ -41,13 +41,13 @@ category: 技术笔记
 3.  **压控电流源 (VCCS):** 电压控制的电流源。
 4.  **流控电流源 (CCCS):** 电流控制的电流源。
 
-![四种基本受控源](https://secure2.wostatic.cn/static/gaoPCFcH95k5nU1ca8UZZZ/image.png?auth_key=1761381553-x9qkmNAk2kAN9Z1vDRV8pX-0-93bcac476839124c5c8e3aa6d113ce49)
+![四种基本受控源](https://imgur.com/a9TwoyU)
 *图2：四种基本受控源的电路符号。*
 
 ### 工作示例
 如下图电路，电阻 `R` 两端的电压 `v` 控制着其所在电路的受控电流源的电流大小。
 
-![压控电流源示例](https://secure2.wostatic.cn/static/bWXcFiVY15jpfKgyHetXhe/image.png?auth_key=1761381553-tJPkfkqfxTEVxeprQF5PWp-0-82b956654d9e8b695189c30d94854c29)
+![压控电流源示例](https://imgur.com/zIB0BGM)
 *图3：一个由电压控制电流的电路。*
 
 ---
@@ -61,7 +61,7 @@ category: 技术笔记
 
 下面是一个典型的非线性放大器（反相器）电路模型：
 
-![非线性放大器电路模型](https://secure2.wostatic.cn/static/g9vCtWZo79b3Y7TqQPT9ba/image.png?auth_key=1761380020-b6MMDcWXaEaqPNRaW64rP6-0-c74bd230d4d8c63329a68a0b08f8b081)
+![非线性放大器电路模型](https://imgur.com/VGr22fP)
 *图4：一个简单的反相放大器电路。*
 
 **工作原理：**
@@ -75,7 +75,7 @@ category: 技术笔记
 
 这种剧烈的变化关系正体现了“放大”的效果。
 
-![输入输出电压关系曲线](https://secure2.wostatic.cn/static/xrj7JchkYC5YgmZo6VsSkp/image.png?auth_key=1761380206-ieDo4Lke9rKVUKecW5YPkD-0-6f8600e56a28f297d9e920f6c0dfb6)
+![输入输出电压关系曲线](https://imgur.com/haUYbmW)
 *图5：该放大器的输入-输出电压曲线，呈现典型的 S 型非线性特征。*
 
 **总结：**
