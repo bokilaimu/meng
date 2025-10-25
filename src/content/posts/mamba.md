@@ -24,7 +24,7 @@ draft: false
 
 也就是对于图中的第一个向量与第四个向量的信息，需要经过 3 次卷积才能被融合。
 
-![CNN 多层卷积](https://i.imgur.com/K5f4c57.png)
+![CNN 多层卷积](https://secure2.wostatic.cn/static/inLPx6Jj8tUKHQqNz14M5K/image.png?auth_key=1761386592-2PW3cexiaCWL5diQXBm5FY-0-e994e5af5319395607639c76b0adfa94&file_size=431143)
 
 ### 循环神经网络 (RNN)
 
