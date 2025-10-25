@@ -6,7 +6,7 @@ description: 详细解析 Mamba 架构，借鉴了 RNN 和状态空间模型 (SS
 tags: [Mamba, AI, SSM, RNN, 架构]
 category: 技术笔记
 licenseName: "Unlicensed"
-author: Gemini
+author: Lain
 draft: false
 ---
 
