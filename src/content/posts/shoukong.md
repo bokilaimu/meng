@@ -65,7 +65,7 @@ category: 技术笔记
 
 下面是一个典型的非线性放大器（反相器）电路模型：
 
-![非线性放大器电路模型](https://imgur.com/VGr22fP.png)
+![非线性放大器电路模型](https://i.imgur.com/VGr22fP.png)
 *图4：一个简单的反相放大器电路。*
 
 **工作原理：**
@@ -79,7 +79,7 @@ category: 技术笔记
 
 这种剧烈的变化关系正体现了“放大”的效果。
 
-![输入输出电压关系曲线](https://imgur.com/haUYbmW.png)
+![输入输出电压关系曲线](https://i.imgur.com/haUYbmW.png)
 *图5：该放大器的输入-输出电压曲线，呈现典型的 S 型非线性特征。*
 
 **总结：**
