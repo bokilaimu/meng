@@ -28,7 +28,7 @@ category: 技术笔记
 *图1：输入与输出的电压阈值。输出端的要求更严格，需要放大器来“拉升”信号。*
 
 ---
-
+https://i.imgur.com/AjOl4ZV.png
 ## 受控源 (Controlled Source)
 
 要构造**放大器**，就需要**受控源**。
