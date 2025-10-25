@@ -1,7 +1,7 @@
 ---
 title: 受控源与放大器
 published: 2025-10-24
-author: Gemini
+author: Lain
 description: 关于构建放大器所需的核心元件——受控源，及其工作原理的笔记。
 tags: [电子学, 电路, 放大器, 受控源]
 category: 技术笔记
