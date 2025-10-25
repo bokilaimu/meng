@@ -7,7 +7,12 @@ tags: [电子学, 电路, 放大器, 受控源]
 category: 技术笔记
 ---
 
+
 # 受控源与放大器
+## Bilibili
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=58804449&bvid=BV1zt4115761&cid=102523693&p=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 
 ## 放大器 (Amplifier)
 
